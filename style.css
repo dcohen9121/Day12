@@ -4,3 +4,9 @@ h1 {
 	font-size: 50px;
 	background-color: red;
 }
+
+.leftpanel {
+		width:20%
+		height: 800px
+		background-color:steelblue;
+		float:left;
